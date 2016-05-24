@@ -1,0 +1,15 @@
+{
+    "name": "finwo/proxy",
+    "require": {
+        "gabordemooij/redbean": "^4.3",
+        "php": ">=5.3",
+        "mustangostang/spyc": "^0.5.1"
+    },
+    "authors": [
+        {
+            "name": "Robin Bron",
+            "email": "robin@finwo.nl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
