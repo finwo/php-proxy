@@ -3,7 +3,8 @@
     "require": {
         "gabordemooij/redbean": "^4.3",
         "php": ">=5.3",
-        "mustangostang/spyc": "^0.5.1"
+        "mustangostang/spyc": "^0.5.1",
+        "pimple/pimple": "^3.0"
     },
     "authors": [
         {

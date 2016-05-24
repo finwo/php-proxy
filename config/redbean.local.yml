@@ -1,0 +1,4 @@
+redbean:
+  dsn: "mysql:host=10.0.3.40;dbname=lander-builder"
+  user: admin2
+
